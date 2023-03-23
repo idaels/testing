@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;\&quot;TEST\&quot;&quot;,
+  &quot;text&quot;: &quot;{\n\&quot;text\&quot;: \&quot;Dit is een test.\&quot;\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
@@ -27,7 +27,7 @@
    <maxResponseSize>-1</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dyslexai.designproject.idlab.ugent.be:8001/dyslexai/summarize</restUrl>
+   <restUrl>https://dyslexai.designproject.idlab.ugent.be/dev/dyslexai/summarize</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>

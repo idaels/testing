@@ -27,7 +27,7 @@
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>http://dyslexai.designproject.idlab.ugent.be:8001/dyslexai/search</restUrl>
+   <restUrl>https://dyslexai.designproject.idlab.ugent.be/dev/dyslexai/search</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
