@@ -10,7 +10,7 @@
    <followRedirects>false</followRedirects>
    <httpBody></httpBody>
    <httpBodyContent>{
-  &quot;text&quot;: &quot;{\n\&quot;query\&quot;: \&quot;Hoe veel weerberichten?\&quot;,\n\&quot;text\&quot;: \&quot;Deboosere maakt zijn debuut op 12 maart 1987, bijna dag op dag 36 jaar voor zijn allerlaatste weerpraatje. Gedurende zijn hele carrière heeft hij ongeveer 100 000 (!) weerberichten gepresenteerd. \\\&quot;Dat aantal: ik kon het zelf ook niet geloven, maar het is echt in die orde. De wolken zijn mijn vrienden, de zon is mijn vriend, de blauwe hemel, de sterren. Anders hou je ook niet zoveel jaren vol. Het weer stopt ook nooit. Zelfs God kon zeggen: \\\&quot;De zevende dag rust ik\\\&quot;. Maar dat geldt niet voor weermannen en -vrouwen.\\\&quot;\&quot;\n}&quot;,
+  &quot;text&quot;: &quot;{\n\&quot;query\&quot;: \&quot;Hoe veel weerberichten?\&quot;,\n\&quot;text\&quot;: [\&quot;Deboosere maakt zijn debuut op 12 maart 1987, bijna dag op dag 36 jaar voor zijn allerlaatste weerpraatje.\&quot;, \&quot;Gedurende zijn hele carrière heeft hij ongeveer 100 000 (!) weerberichten gepresenteerd.\&quot;, \&quot;\\\&quot;Dat aantal: ik kon het zelf ook niet geloven, maar het is echt in die orde.\&quot;, \&quot;De wolken zijn mijn vrienden, de zon is mijn vriend, de blauwe hemel, de sterren.\&quot;, \&quot;Anders hou je ook niet zoveel jaren vol.\&quot;, \&quot;Het weer stopt ook nooit.\&quot;, \&quot;Zelfs God kon zeggen: \\\&quot;De zevende dag rust ik\\\&quot;.\&quot;, \&quot;Maar dat geldt niet voor weermannen en -vrouwen.\\\&quot;\&quot;]\n}&quot;,
   &quot;contentType&quot;: &quot;application/json&quot;,
   &quot;charset&quot;: &quot;UTF-8&quot;
 }</httpBodyContent>
